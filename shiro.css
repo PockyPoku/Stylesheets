@@ -232,8 +232,8 @@ ul.thin li {
 }
 
 #logo {
-	width: 0px;
-	height: 0px;
+	width: 1px;
+	height: 1px;
 	background: url('http://i.imgur.com/KfifwRr.png') no-repeat center center;
 	margin: 5px auto 5px auto;
 }
